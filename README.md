@@ -102,7 +102,8 @@ The overview of the model's architecture and the number of parameters associated
 ```
 
 #### **Result**
-![acc](https://github.com/KharchenkoAnastasia/handwritten_recog/assets/47922202/3fa8a9e9-918f-49ec-b100-0178d989a4d1)
+![acc](https://github.com/KharchenkoAnastasia/handwritten_model/assets/47922202/4f2eb537-3968-4063-b81a-daf7cbca6099)
+
 
 **Test loss:** 0.0425
 
