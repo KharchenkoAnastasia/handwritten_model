@@ -127,8 +127,7 @@ Output :
 57, C:\Users\kharc\Desktop\handwritten_recog\images\number_5.png
 ```
 
-#### **Contact**
-For any inquiries or support, please contact kharchenko.13.08@gmail.com Anastasiia Kharchenko .
+
 
 
 
